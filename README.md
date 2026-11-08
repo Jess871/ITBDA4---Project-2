@@ -20,7 +20,6 @@ ITBDA4---Project-2/
     output/                         <- search results
   Question 2/
     Question2.R
-    Input/                          <- news articles
     output/                         <- topic results
     wordclouds/, barplots/          <- topic charts
   Question 3/
