@@ -1,0 +1,1 @@
+Note: The data exploration is in explore_corpus.R. To run the MapReduce job, run keyword_search.R with a keyword (e.g. Rscript keyword_search.R africa). It runs mapper.R and reducer.R through Hadoop, so those two don’t need to be run separately.
