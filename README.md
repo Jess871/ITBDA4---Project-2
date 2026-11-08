@@ -9,8 +9,8 @@ This repository has my work for ITBDA4 Project 2. There are four questions, all 
 ```
 ITBDA4---Project-2/
   README.md
-  documentation/
-    Project2_Documentation.pdf      <- written report
+  Documentation/
+    ITBDA4 - Documentation.pdf      <- written report
   ITBDA4-14 Project 2 Datasets-20260722/   <- raw datasets supplied
   Question 1/
     explore_corpus.R                <- explores the articles first
