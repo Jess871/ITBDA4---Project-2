@@ -1,0 +1,21 @@
+"sentence_id","sentence","wordfreq_score","tfidf_score","chosen_by_wordfreq","chosen_by_tfidf"
+1,"The Motor Vehicle Collisions crash table contains details on the crash event.",0.2778,2.8631,FALSE,FALSE
+2,"Each row represents a crash event.",0.1607,3.5719,FALSE,TRUE
+3,"The Motor Vehicle Collisions data tables contain information from all police reported motor vehicle collisions in NYC.",0.3297,2.7824,TRUE,FALSE
+4,"View all Motor Vehicle Collisions data.",0.4571,2.0621,TRUE,FALSE
+5,"The police report (MV104-AN) is required to be filled out for collisions where someone is injured or killed, or where there is at least $1000 worth of damage (https://www.nhtsa.gov/sites/nhtsa.dot.gov/files/documents/ny_overlay_mv-104an_rev05_2004.pdf).",0.1667,3.7086,FALSE,TRUE
+6,"It should be noted that the data is preliminary and subject to change when the MV-104AN forms are amended based on revised crash details.For the most accurate, up to date statistics on traffic fatalities, please refer to the NYPD Motor Vehicle Collisions page (updated weekly) or Vision Zero View (updated monthly).",0.2235,3.4029,FALSE,FALSE
+7,"Due to success of the CompStat program, NYPD began to ask how to apply the CompStat principles to other problems.",0.1104,3.996,FALSE,TRUE
+8,"Other than homicides, the fatal incidents with which police have the most contact with the public are fatal traffic collisions.",0.2857,3.3384,FALSE,FALSE
+9,"Therefore in April 1998, the Department implemented TrafficStat, which uses the CompStat model to work towards improving traffic safety.",0.2198,3.2416,FALSE,FALSE
+10,"Police officers complete form MV-104AN for all vehicle collisions.",0.3367,2.5331,TRUE,FALSE
+11,"The MV-104AN is a New York State form that has all of the details of a traffic collision.",0.2857,3.0386,FALSE,FALSE
+12,"Before implementing Trafficstat, there was no uniform traffic safety data collection procedure for all of the NYPD precincts.",0.3,2.9005,FALSE,FALSE
+13,"Therefore, the Police Department implemented the Traffic Accident Management System (TAMS) in July 1999 in order to collect traffic data in a uniform method across the City.",0.2857,2.9973,FALSE,FALSE
+14,"TAMS required the precincts manually enter a few selected MV-104AN fields to collect very basic intersection traffic crash statistics which included the number of accidents, injuries and fatalities.",0.2068,3.3734,FALSE,FALSE
+15,"As the years progressed, there grew a need for additional traffic data so that more detailed analyses could be conducted.",0.2643,3.259,FALSE,FALSE
+16,"The Citywide traffic safety initiative, Vision Zero started in the year 2014.",0.2679,3.2433,FALSE,FALSE
+17,"Vision Zero further emphasized the need for the collection of more traffic data in order to work towards the Vision Zero goal, which is to eliminate traffic fatalities.",0.317,2.8836,FALSE,FALSE
+18,"Therefore, the Department in March 2016 replaced the TAMS with the new Finest Online Records Management System (FORMS).",0.1429,3.509,FALSE,FALSE
+19,"FORMS enables the police officers to electronically, using a Department cellphone or computer, enter all of the MV-104AN data fields and stores all of the MV-104AN data fields in the Department’s crime data warehouse.",0.2823,3.0617,FALSE,FALSE
+20,"Since all of the MV-104AN data fields are now stored for each traffic collision, detailed traffic safety analyses can be conducted as applicable.",0.3238,2.9565,FALSE,FALSE
