@@ -13,27 +13,23 @@ ITBDA4---Project-2/
     Project2_Documentation.pdf      <- written report
   ITBDA4-14 Project 2 Datasets-20260722/   <- raw datasets supplied
   Question 1/
-    Question1.Rmd / Question1.html  <- notebook and knitted result
-    explore_corpus.R                <- looks at the articles first
+    explore_corpus.R                <- explores the articles first
     keyword_search.R                <- runs the Hadoop job
     mapper.R, reducer.R             <- MapReduce code
     Input/                          <- article files searched
     output/                         <- search results
   Question 2/
-    Question2.Rmd / Question2.html
     Question2.R
     Input/                          <- news articles
     output/                         <- topic results
     wordclouds/, barplots/          <- topic charts
   Question 3/
-    Question3.Rmd / Question3.html
     Question3.R
     scraped_raw.csv                 <- text scraped from the web page
     sentences_clean.csv             <- cleaned sentences
     sentence_scores.csv             <- sentence scores
     plots/                          <- word cloud and bar chart
   Question 4/
-    Question4.Rmd / Question4.html
     Question4.R
     books_clean.csv                 <- cleaned book data
 ```
