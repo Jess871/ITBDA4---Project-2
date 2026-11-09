@@ -1,7 +1,5 @@
 # ITBDA4 Project 2
 
-Honours Data Science, Eduvos. 
-
 This repository has my work for ITBDA4 Project 2. There are four questions, all done in R. Each question has its own folder.
 
 ## Folder layout
